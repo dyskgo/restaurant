@@ -21,6 +21,3 @@ aboutTab.addEventListener('click', loadAbout);
 menuTab.addEventListener('click', loadMenu);
 contactTab.addEventListener('click', loadContact); 
 
-
-
-console.log('It works, baby!!!!!');
